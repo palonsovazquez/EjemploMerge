@@ -11,4 +11,9 @@ package EjemploMerge;
  */
 public class B {
     
+    
+    //modificacion 1º commit....
+    
+    
+    // modificacion 2º commit.....
 }
