@@ -11,5 +11,6 @@ package EjemploMerge;
  */
 public class C {
     //prueba C de merge de forma distinta
+    // 2
     
 }
