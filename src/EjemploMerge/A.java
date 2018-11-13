@@ -10,5 +10,5 @@ package EjemploMerge;
  * @author palonsovazquez
  */
 public class A {
-    
+    // mod A en la branch PExperimentalA
 }
