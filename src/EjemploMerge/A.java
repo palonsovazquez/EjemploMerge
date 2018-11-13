@@ -11,4 +11,5 @@ package EjemploMerge;
  */
 public class A {
     // mod A en la branch PExperimentalA
+    //mod A2 en la branch PExperimentalA
 }
